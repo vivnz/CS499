@@ -2,12 +2,26 @@
 
 **Overview**
 ---
-This repository documents the architectural development and technical procedures for my CS-499 Computer Science Capstone final project: a collaborative, real-time drawing application. In the modern tech landscape, a professional portfolio must serve as a high-fidelity visual communication tool; this project serves that purpose by demonstrating my ability to bridge the gap between complex backend systems and intuitive user interfaces.The artifacts included in this ePortfolio represent a culmination of my growth in the Computer Science program, specifically targeting three core pillars:
+**Professional Growth and Values**
 <br>
-- **Software Design & Engineering**: Showcased through a modular, hook-based React architecture and state management for a dynamic UI.
-- **Algorithms & Data Structures**: Demonstrated by a custom Spatial Offset Mapping algorithm that handles centered canvas expansion and optimized $O(N)$ data translation.
-- **Databases**: Illustrated by a hybrid data strategy utilizing PostgreSQL for persistent state recovery and WebSockets for high-concurrency, real-time user interaction.
+Completing the Computer Science program at SNHU and developing this ePortfolio has allowed me to synthesize my background in Fine Arts with technical engineering. This journey has shaped my professional value system, fostering a belief that software should be functional and secure while remaining intuitive and accessible. By evolving from foundational programming to developing complex real-time distributed systems, I have showcased my strength in adaptive problem-solving and the ability to back creative concepts with rigorous mathematical and algorithmic logic.
+
+**Collaboration and Communication**
 <br>
-While each artifact highlights specific proficiencies, this project uniquely demonstrates cross-category synergy. I have enhanced these components beyond their original academic requirements—addressing limitations in real-time synchronization, optimizing data structures for coordinate storage, and mitigating security vulnerabilities within the database schema. This portfolio conveys my identity as a motivated, well-organized software engineer capable of delivering scalable, full-stack creative solutions.work together.
-**Code Review** <br>
+While this Capstone project is a solo endeavor, my time in the program has been defined by collaborating in various team environments. In earlier coursework, such as my Software Test Automation and System Analysis modules, I worked within Agile frameworks and participated in code reviews and stand-ups. These experiences taught me how to communicate technical constraints to stakeholders by translating complex database limitations into clear project timelines. In the context of this project, that skill is reflected in the design of the Lobby and Real-Time features, which prioritize the end-user's need for immediate visual feedback.
+
+**Technical Mastery Across the Pillars**
+<br>
+My coursework provided a comprehensive foundation that I applied directly to this Capstone. Regarding Software Engineering and Databases, I moved beyond simple CRUD applications to develop a hybrid data strategy. By utilizing PostgreSQL for long-term persistence alongside WebSockets for ephemeral real-time interaction, I demonstrated an ability to select the specific tool required for high-performance results.Furthermore, my proficiency in Data Structures and Algorithms is highlighted in the project’s custom Spatial Offset Mapping algorithm. To maintain a seamless user experience, I implemented an $O(N)$ coordinate translation that centers the drawing during canvas expansion. This is a direct application of the efficiency and complexity principles I mastered in my advanced coursework. These technical choices were bolstered by a proactive approach to Security, where I implemented environment variable protection for API keys and enforced Row Level Security within Supabase to ensure total data integrity.
+
+**The ePortfolio: A Synergetic Showcase**
+<br>
+The artifacts within this ePortfolio are not isolated exercises but rather interconnected components that demonstrate a full range of talents. The Software Engineering artifact establishes the modular React foundation, the Algorithms artifact adds the mathematical logic that allows the canvas to grow, and the Database artifact provides the persistent memory that lets users collaborate across sessions. Together, these artifacts inform a portfolio that proves I am ready to enter the field as a Software Engineer who values technical excellence and the bridge between creative design and robust system architecture.
+
+<br>
+
+**Code Review**
+  ---
+This is my code review that I have conducted that displays my beginning progress and my planned enhancements for the drawing application.
+  <br>
 https://youtu.be/i19T_XYrHO8
