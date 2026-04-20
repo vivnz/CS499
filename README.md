@@ -37,3 +37,5 @@ This contains my reflection and implementation of the Algorithms and Data Struct
 This contains my reflection and implementation of the Databases enhancement.<br>
 [Milestone 3 Reflection](<narratives/Vivian Zhang CS 499 5-2 Milestone.docx>)
 <br>
+
+## [🎮 Click Here to Play the Live Drawing App](https://vivnz.github.io/CS499/play/index.html)
