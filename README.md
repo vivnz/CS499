@@ -23,14 +23,17 @@ The artifacts within this ePortfolio are not isolated exercises but rather inter
   ---
 This is my code review that I have conducted that displays my beginning progress and my planned enhancements for the drawing application.
   <br>
-https://youtu.be/i19T_XYrHO8
+[Code Review Video](https://youtu.be/i19T_XYrHO8).
 <br>
 
 **Milestone Progress**
 ---
-This contains my reflection and implementation of the Software Design and Engineering enhancement.
+This contains my reflection and implementation of the Software Design and Engineering enhancement.<br>
+[Milestone 1 Reflection](<Vivian Zhang CS 499 3-2 Milestone.docx>)
 <br>
-This contains my reflection and implementation of the Algorithms and Data Structures enhancement.
+This contains my reflection and implementation of the Algorithms and Data Structures enhancement. <br>
+[Milestone 2 Reflection](<Vivian Zhang CS 499 4-2 Milestone.docx>)
 <br>
-This contains my reflection and implementation of the Databases enhancement.
+This contains my reflection and implementation of the Databases enhancement.<br>
+[Milestone 3 Reflection](<Vivian Zhang CS 499 5-2 Milestone.docx>)
 <br>
