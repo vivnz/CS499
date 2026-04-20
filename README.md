@@ -29,11 +29,11 @@ This is my code review that I have conducted that displays my beginning progress
 **Milestone Progress**
 ---
 This contains my reflection and implementation of the Software Design and Engineering enhancement.<br>
-[Milestone 1 Reflection](<Vivian Zhang CS 499 3-2 Milestone.docx>)
+[Milestone 1 Reflection](<narratives/Vivian Zhang CS 499 3-2 Milestone.docx>)
 <br>
 This contains my reflection and implementation of the Algorithms and Data Structures enhancement. <br>
-[Milestone 2 Reflection](<Vivian Zhang CS 499 4-2 Milestone.docx>)
+[Milestone 2 Reflection](<narratives/Vivian Zhang CS 499 4-2 Milestone.docx>)
 <br>
 This contains my reflection and implementation of the Databases enhancement.<br>
-[Milestone 3 Reflection](<Vivian Zhang CS 499 5-2 Milestone.docx>)
+[Milestone 3 Reflection](<narratives/Vivian Zhang CS 499 5-2 Milestone.docx>)
 <br>
