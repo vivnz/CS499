@@ -17,7 +17,6 @@ My coursework provided a comprehensive foundation that I applied directly to thi
 **The ePortfolio: A Synergetic Showcase**
 <br>
 The artifacts within this ePortfolio are not isolated exercises but rather interconnected components that demonstrate a full range of talents. The Software Engineering artifact establishes the modular React foundation, the Algorithms artifact adds the mathematical logic that allows the canvas to grow, and the Database artifact provides the persistent memory that lets users collaborate across sessions. Together, these artifacts inform a portfolio that proves I am ready to enter the field as a Software Engineer who values technical excellence and the bridge between creative design and robust system architecture.
-
 <br>
 
 **Code Review**
@@ -25,3 +24,13 @@ The artifacts within this ePortfolio are not isolated exercises but rather inter
 This is my code review that I have conducted that displays my beginning progress and my planned enhancements for the drawing application.
   <br>
 https://youtu.be/i19T_XYrHO8
+<br>
+
+**Milestone Progress**
+---
+This contains my reflection and implementation of the Software Design and Engineering enhancement.
+<br>
+This contains my reflection and implementation of the Algorithms and Data Structures enhancement.
+<br>
+This contains my reflection and implementation of the Databases enhancement.
+<br>
